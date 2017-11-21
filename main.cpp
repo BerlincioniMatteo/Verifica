@@ -13,7 +13,12 @@ for (int i=0;i<10;i++)
 c++;
 cout<<c;
 }
+<<<<<<< HEAD
 dsfjrepjgrepg
 fwogherhg
 
+=======
+
+jgirejgjeriti
+>>>>>>> FIX_BUG2
 }
